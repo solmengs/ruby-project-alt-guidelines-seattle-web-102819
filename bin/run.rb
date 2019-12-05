@@ -15,15 +15,18 @@ cli = CommandLineInterface.new
 # cli.cancel_account 
 # cli.all_games 
 
-cli.welcome
-cli.main_manu
+# cli.welcome
+# cli.main_menu
 # cli.create_an_account
 # cli.create_an_account
 # cli.game_near_you
 # cli.players
-# cli.join_a_soccer_team
+cli.join_a_soccer_team
 # cli.matches
 # cli.players_average_age
+# cli.delete_your_account
+# cli.update_your_account
+# cli.where_all_games_are_happening
 
 # binding.pry
 # 0
