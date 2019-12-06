@@ -16,8 +16,6 @@ Fork and clone this repository
 
 Run 'bundle install' to install all required gems.
 
-Run 'rake db:migration NAME=create_table' to create migrate
-
 Run 'rake db:migrate' to build your database.
 
 Run 'rake db:seed' to seed your data.
