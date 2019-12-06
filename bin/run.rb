@@ -15,13 +15,13 @@ cli = CommandLineInterface.new
 # cli.cancel_account 
 # cli.all_games 
 
-# cli.welcome
-# cli.main_menu
+cli.welcome
+cli.main_menu
 # cli.create_an_account
 # cli.create_an_account
 # cli.game_near_you
 # cli.players
-cli.join_a_soccer_team
+# cli.join_a_soccer_team
 # cli.matches
 # cli.players_average_age
 # cli.delete_your_account
